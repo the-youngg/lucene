@@ -57,7 +57,7 @@ public class SearchHelper {
             logForI18nTest(messageSource, japanKeyForTest);
             new File(properties.getIndexLocation()).deleteOnExit();
             indexService.initIndex();
-            indexService.initIndex();
+//            indexService.initIndex();
             Iterable<Project> projects = projectService.getAllProjects();
             for (Project project : projects) {
                 indexService.createIndex(project);

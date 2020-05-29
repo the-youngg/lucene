@@ -148,11 +148,11 @@ class MySearch {
     private void findAndAddDocuments(List<Document> documents, String field, String key, int maxNum, IndexSearcher indexSearcher) throws IOException {
         Query query = new TermQuery(new Term(field, key));
         TopDocs topDocs = indexSearcher.search(query, maxNum);
-        if (topDocs.totalHits > 0) {
-            for (ScoreDoc scoreDoc : topDocs.scoreDocs) {
-                documents.add(indexSearcher.doc(scoreDoc.doc));
-            }
+//        if (topDocs.totalHits > 0) {
+        for (ScoreDoc scoreDoc : topDocs.scoreDocs) {
+            documents.add(indexSearcher.doc(scoreDoc.doc));
         }
+//        }
     }
 
 

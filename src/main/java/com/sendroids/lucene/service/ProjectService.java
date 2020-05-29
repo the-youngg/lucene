@@ -22,6 +22,12 @@ public class ProjectService {
         return projectRepository.findById(id);
     }
 
+    public void deleteProject(
+            final Project project
+    ){
+        projectRepository.delete(project);
+    }
+
     public void save(Project project) {
         projectRepository.save(project);
     }

@@ -23,7 +23,7 @@ public class MySimilarity extends BM25Similarity {
      * @param maxOverlap the total number of terms in the query
      * @return a score factor based on term overlap with the query
      */
-    @Override
+//    @Override
     public float coord(int overlap, int maxOverlap) {
 //        return (float) overlap / (float) maxOverlap;
         return (float) overlap / (float) maxOverlap * 2;
@@ -37,7 +37,7 @@ public class MySimilarity extends BM25Similarity {
      * @param sumOfSquaredWeights the sum of the squares of query term weights
      * @return a normalization factor for query weights
      */
-    @Override
+//    @Override
     public float queryNorm(float sumOfSquaredWeights) {
         return (float) (1.0D / Math.sqrt((double) sumOfSquaredWeights));
     }
@@ -78,7 +78,7 @@ public class MySimilarity extends BM25Similarity {
      * @param distance the edit distance of this sloppy phrase match
      * @return the frequency increment for this match
      */
-    @Override
+//    @Override
     public float sloppyFreq(int distance) {
         return 1.0F / (float) (distance + 1);
     }

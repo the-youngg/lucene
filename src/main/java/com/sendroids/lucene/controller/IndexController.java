@@ -7,12 +7,10 @@ import com.sendroids.lucene.search.service.IndexService;
 import com.sendroids.lucene.search.service.SearchService;
 import com.sendroids.lucene.service.ProjectService;
 import lombok.val;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.PostMapping;
-import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RestController;
+import org.springframework.web.bind.annotation.*;
 
 import java.util.Collection;
+import java.util.Date;
 import java.util.Set;
 import java.util.stream.Collectors;
 
@@ -48,7 +46,26 @@ public class IndexController {
 
         projectService.update(project);
         indexService.createIndex(project);
+    }
 
+    @PutMapping("/update")
+    public void update(
+            final @RequestBody Project project
+    ) {
+        projectService.update(project);
+        indexService.updateIndex(project, new Date());
+    }
+
+
+    @PostMapping("/delete/{id}")
+    public void delete(
+            @PathVariable Long id
+    ) {
+        val dbProject = projectService.getProjectById(id).orElseThrow(
+                () -> new IllegalArgumentException(id + "is not exist")
+        );
+//        projectService.deleteProject(dbProject);
+        indexService.deleteIndex(dbProject);
     }
 
     @GetMapping("/search")
@@ -68,6 +85,7 @@ public class IndexController {
             final long costTime = System.currentTimeMillis() - start;
 
             searchForm.setCostTime(costTime);
+            searchForm.setKeyword(kw);
         }
 
 
@@ -83,6 +101,7 @@ public class IndexController {
                     final val dbProject = projectService.getProjectById(result.getProjectId()).orElseGet(Project::new);
                     result.setProjectName(dbProject.getName());
                     result.setContent(dbProject.getContent());
+                    result.setKeyword(searchForm.getKeyword());
                     return result;
                 })
                 .collect(Collectors.toSet());
