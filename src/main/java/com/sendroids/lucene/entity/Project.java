@@ -28,8 +28,6 @@ public class Project implements Serializable {
     @Column(length = 1024)
     private String brief;
 
-    private ProjectType type = ProjectType.PROVISION;
-
     @Temporal(TemporalType.TIMESTAMP)
     @DateTimeFormat(pattern = "yyyy/MM/dd HH:mm:ss")
     @Column(name = "register_time")
@@ -62,7 +60,6 @@ public class Project implements Serializable {
                 ", name=" + name +
                 ", publish=" + publish +
                 ", brief=" + brief +
-                ", type=" + type +
                 ", updateTime=" + updateTime +
                 ", registerTime=" + registerTime +
                 ", devCode=" + devCode +
@@ -70,29 +67,6 @@ public class Project implements Serializable {
                 ", dosage=" + dosage +
                 ", effect=" + effect +
                 "]";
-    }
-
-    public enum ProjectType {
-        NEITHER(0 , "Asset none"),
-        PROVISION(1, "Provider projects"),
-        CONSUMPTION(2, "Seeker projects"),
-        BOTH(3, "Provider projects & Seeker projects");
-
-        private int key;
-        private String txt;
-
-        ProjectType(int key, String txt) {
-            this.key = key;
-            this.txt = txt;
-        }
-
-        public int getKey() {
-            return this.key;
-        }
-        public String getText() {
-            return this.txt;
-        }
-
     }
 
 }

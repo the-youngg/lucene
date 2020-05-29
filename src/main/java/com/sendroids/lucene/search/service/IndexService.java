@@ -54,11 +54,8 @@ public class IndexService {
         }
     }
 
-    public void initIndex(Project.ProjectType projectType) {
-        myIndex.initIndex(projectType);
+    public void initIndex() {
+        myIndex.initIndex();
     }
 
-//    public void addDictionary(Project.ProjectType projectType, File dictionary) {
-//        myIndex.addDictionary(projectType, dictionary);
-//    }
 }

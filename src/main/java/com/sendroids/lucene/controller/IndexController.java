@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RestController;
 
-import java.util.*;
+import java.util.Collection;
 
 @RestController
 public class IndexController {
@@ -60,8 +60,7 @@ public class IndexController {
             // search and set results in searchForm
             searchForm.setResult(searchService.numSearch(
                     kw, // search keyword
-                    1000, // max result count
-                    searchForm.getProjectType()// project type
+                    1000 // max result count
             ));
             final long costTime = System.currentTimeMillis() - start;
 

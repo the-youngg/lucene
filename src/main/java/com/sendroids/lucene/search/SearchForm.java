@@ -14,8 +14,6 @@ public class SearchForm {
     @NonNull
     private String keyword = "";
 
-    private Project.ProjectType projectType = Project.ProjectType.PROVISION;
-
     private Long costTime;
 
     private Collection<Result> result = new ArrayList<>();

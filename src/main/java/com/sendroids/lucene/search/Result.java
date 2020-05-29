@@ -1,7 +1,6 @@
 package com.sendroids.lucene.search;
 
 
-import com.sendroids.lucene.entity.Project;
 import lombok.Data;
 
 @Data
@@ -16,7 +15,6 @@ public class Result implements Comparable {
     private String[] partnership;
 
     private String projectName;
-    private Project.ProjectType type;
 
     private Float score;
     private String advice;

@@ -33,23 +33,11 @@ class MyIndex {
 
     /**
      * for initialize index (delete all the index first)
-     *
-     * @param projectType
      */
-    public void initIndex(Project.ProjectType projectType) {
+    public void initIndex() {
         //check the dir
-        File projectDir = null;
-        File fileDir = null;
-        switch (projectType) {
-            case CONSUMPTION:
-                projectDir = new File(properties.getProjectBuyLocation());
-                fileDir = new File(properties.getFileBuyLocation());
-                break;
-            case PROVISION:
-                projectDir = new File(properties.getProjectSellLocation());
-                fileDir = new File(properties.getFileSellLocation());
-                break;
-        }
+        File projectDir = new File(properties.getProjectLocation());
+        File fileDir = new File(properties.getFileLocation());
         initAndDeleteIndex(projectDir);
         initAndDeleteIndex(fileDir);
     }
@@ -101,16 +89,16 @@ class MyIndex {
         IndexSearcher oldFileIndexSearcher = null;
         try {
             //ready to write index
-            projectIndexWriter = getIndexWriter(getProjectIndexDirName(project.getType(), project.getUpdateTime()));
-            fileIndexWriter = getIndexWriter(getFileIndexDirName(project.getType(), project.getUpdateTime()));
+            projectIndexWriter = getIndexWriter(getProjectIndexDirName(project.getUpdateTime()));
+            fileIndexWriter = getIndexWriter(getFileIndexDirName(project.getUpdateTime()));
             //get old index
             if (!LuceneConfig.getIndexDirDateFomat(project.getUpdateTime())
                     .equals(LuceneConfig.getIndexDirDateFomat(oldUpdateTime))) {
-                oldProjectIndexWriter = getIndexWriter(getProjectIndexDirName(project.getType(), oldUpdateTime));
-                oldFileIndexWriter = getIndexWriter(getProjectIndexDirName(project.getType(), oldUpdateTime));
+                oldProjectIndexWriter = getIndexWriter(getProjectIndexDirName(oldUpdateTime));
+                oldFileIndexWriter = getIndexWriter(getProjectIndexDirName(oldUpdateTime));
             }
             if (!flag.equals("create")) {
-                oldFileIndexSearcher = SearchHelper.getIndexSearcherByIndexDirName(project.getType(), getFileIndexDirName(project.getType(), oldUpdateTime));
+                oldFileIndexSearcher = SearchHelper.getIndexSearcherByIndexDirName(getFileIndexDirName(oldUpdateTime));
             }
 
             addDocumentToIndex(projectIndexWriter, oldProjectIndexWriter, fileIndexWriter, oldFileIndexWriter, oldFileIndexSearcher, flag, project);
@@ -148,32 +136,14 @@ class MyIndex {
         return SearchHelper.getIndexWriter(indexDirName);
     }
 
-    private String getProjectIndexDirName(Project.ProjectType projectType, Date date) {
-        String indexDirName = "";
+    private String getProjectIndexDirName(Date date) {
         String place = LuceneConfig.getIndexDirDateFomat(date);
-        switch (projectType) {
-            case CONSUMPTION:
-                indexDirName = properties.getProjectBuyLocation() + place;
-                break;
-            case PROVISION:
-                indexDirName = properties.getProjectSellLocation() + place;
-                break;
-        }
-        return indexDirName;
+        return properties.getProjectLocation() + place;
     }
 
-    private String getFileIndexDirName(Project.ProjectType projectType, Date date) {
-        String indexDirName = "";
+    private String getFileIndexDirName(Date date) {
         String place = LuceneConfig.getIndexDirDateFomat(date);
-        switch (projectType) {
-            case CONSUMPTION:
-                indexDirName = properties.getFileBuyLocation() + place;
-                break;
-            case PROVISION:
-                indexDirName = properties.getFileSellLocation() + place;
-                break;
-        }
-        return indexDirName;
+        return properties.getFileLocation() + place;
     }
 
 //    private Document setFilesToDocument(String docsPath, Document document) throws IOException {

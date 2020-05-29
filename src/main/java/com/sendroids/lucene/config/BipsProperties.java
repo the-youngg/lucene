@@ -15,22 +15,20 @@ import java.util.Set;
 @Getter
 public class BipsProperties {
 
-    @Value("${bips.upload-location}")
+    @Value("${lucene.upload-location}")
     private String uploadLocation;
-    @Value("${bips.index-location}")
+
+    @Value("${lucene.index-location}")
     private String indexLocation;
-    @Value("${bips.buy-location}")
-    private String buyLocation;
-    @Value("${bips.sell-location}")
-    private String sellLocation;
-    @Value("${bips.buy-location-project}")
-    private String projectBuyLocation;// index-dir/Buy/project/201710
-    @Value("${bips.sell-location-project}")
-    private String projectSellLocation;
-    @Value("${bips.buy-location-file}")
-    private String fileBuyLocation; // index-dir/Buy/file/201710
-    @Value("${bips.sell-location-file}")
-    private String fileSellLocation;
+
+    @Value("${lucene.location}")
+    private String location;
+
+    @Value("${lucene.location-project}")
+    private String projectLocation;
+
+    @Value("${lucene.location-file}")
+    private String fileLocation;
 
     private final long indexMatchReadMaxSize = 1024 * 1024 * 1024;// 1024^3 Byte = 1GB
     private final int indexMatchReadMaxMonth = 12;
