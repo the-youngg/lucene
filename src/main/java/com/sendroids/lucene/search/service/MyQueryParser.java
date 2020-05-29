@@ -30,15 +30,18 @@ public class MyQueryParser {
         Query query1 = normalParser(keyword, analyzer, myField.keyword);
         Query query2 = normalParser(keyword, analyzer, myField.brief);
         Query query3 = normalParser(keyword, analyzer, "name");
+        Query query4 = normalParser(keyword, analyzer, myField.content);
         //set weight
         BoostQuery boostQuery1 = new BoostQuery(query1, LuceneConfig.LUCENE_SEARCH_KEYWORD_WEIGHT);
         BoostQuery boostQuery2 = new BoostQuery(query2, LuceneConfig.LUCENE_SEARCH_BRIEF_WEIGHT);
         BoostQuery boostQuery9 = new BoostQuery(query3, 11.0f);
+        BoostQuery boostQuery10 = new BoostQuery(query4, 11.0f);
         //OCCUR : MUST SHOULD MUST_NOT
         BooleanQuery.Builder builder = new BooleanQuery.Builder();
         builder.add(boostQuery1, BooleanClause.Occur.SHOULD);
         builder.add(boostQuery2, BooleanClause.Occur.SHOULD);
         builder.add(boostQuery9, BooleanClause.Occur.SHOULD);
+        builder.add(boostQuery10, BooleanClause.Occur.SHOULD);
 
         return builder.build();
     }

@@ -23,8 +23,6 @@ public class Project implements Serializable {
     @Column
     protected String name;
 
-    private boolean publish = true;
-
     @Column(length = 1024)
     private String brief;
 
@@ -38,19 +36,8 @@ public class Project implements Serializable {
     @Column(name = "update_time")
     private Date updateTime = registerTime;
 
-    @Column(name = "dev_code")
-    private String devCode = "";
-
     @Column(length = 1024)
-    private String symptom = "";
-
-    @Column(length = 1024)
-    private String dosage = "";
-
-    @Column(length = 1024)
-    private String effect = "";
-
-    private Long hits = 0L;
+    private String content;
 
 
     @Override
@@ -58,14 +45,10 @@ public class Project implements Serializable {
         return "Project@" + hashCode() +
                 "[id=" + id +
                 ", name=" + name +
-                ", publish=" + publish +
                 ", brief=" + brief +
                 ", updateTime=" + updateTime +
                 ", registerTime=" + registerTime +
-                ", devCode=" + devCode +
-                ", symptom=" + symptom +
-                ", dosage=" + dosage +
-                ", effect=" + effect +
+                ", content=" + content +
                 "]";
     }
 

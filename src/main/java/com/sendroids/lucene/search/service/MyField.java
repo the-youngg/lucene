@@ -23,6 +23,7 @@ public class MyField {
     public final String projectName = "projectName";
     public final String keyword = "keyword";
     public final String brief = "brief";
+    public final String content = "content";
 
 
     public Document addProject(Document document, Project project) {
@@ -31,11 +32,13 @@ public class MyField {
 
         Field pBrief = new Field(brief, project.getBrief(), TextField.TYPE_STORED);
         Field name = new Field("name", project.getName(), TextField.TYPE_STORED);
+        Field pContent = new Field(content, project.getContent(), TextField.TYPE_STORED);
 
         document.add(pid);
         document.add(pName);
         document.add(pBrief);
         document.add(name);
+        document.add(pContent);
 
         System.out.println(document);
         log.info("Lucene Index Project#" + project.getId() + ": " + document);
