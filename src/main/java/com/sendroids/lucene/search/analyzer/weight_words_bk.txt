@@ -1,0 +1,2584 @@
+#
+# This file defines a keyword set.
+# will set a high weight in search
+#
+
+2-(4-hydroxyphenyl) acetamide
+AAA
+abdominal aortic aneurysm
+ABCs
+airways,breathing,circulation
+ABI/ACS
+Automated Broker Interface of the
+Automated Commercial System
+absorbable collagen sponge
+absorption rate constant
+absorption rate coefficient Ka
+abstinence symptoms
+accelerated approval
+access to medicine
+ATM
+ACCF
+American College of Cardiology Foundation accredited school
+accuracy
+Accutane
+a brand of isotretinoin
+ACE inhibitors
+angiotensin converting enzyme inhibitors
+ACEI
+acetaminophen
+acid reflux
+acidified food
+ACR-20 improvement criteria
+American College of Rheumatology
+acrylamide
+ACS
+Automated Commercial System
+ACTH
+adrenocorticotropic hormone
+Actimmune
+Interferon gamma-1 b
+action letter
+active comparator
+active control
+AC
+active ingredient
+Active Substance Master File
+ASMF
+Actos
+pioglitazone
+acute myocardial infarction
+acute tibial fractures
+adalimumab
+Humira
+adaptive design
+adaptive randomization
+ADE
+adverse drug event
+adenoviral vectors
+adequate and well-controlled studies
+ADHD
+Attention-deficit hyperactivity disorder
+adhesion barrier product
+adjuvant
+adjuvant therapy
+ADL
+activities of daily living
+ADME
+absorption distribution metabolism and excretion
+ADR
+adverse drug reaction
+adrenal cortex
+adrenal cortical hormone
+adrenal gland
+adrenaline
+adulterated devices
+adverse drug reaction
+ADR
+adverse effect
+adverse medical events
+adverse reaction
+advisory
+advocacy and support groups
+AE
+adverse events
+AERS
+Adverse Event Reporting System
+aflatoxin
+african sleeping sickness
+AFSSAPS
+Agence Française de Sécurité Sanitaire des
+Produits de Santé
+after effect
+agency
+AHA
+American Heart Association
+AIP
+Application Integrity Policy also Fraud Policy
+air embolism
+air handling
+air lock
+alanine aminotransferase
+ALT
+ALARP region
+as low as reasonably practicable
+Alb
+albumin
+Alcohol and Tobacco Tax and Trade Bureau TTB
+ALD
+Approximate Lethal Dose
+ALF
+acute liver failure
+alkaline phosphatase
+ALP
+allergenicity
+allergic shock
+allograft transplantation
+ALOP
+Appropriate Level of Protection
+ALP
+Alkaline phosphatase
+alpha spending function
+ALS
+amyotrophic lateral sclerosis
+Lou Gehrig’s Disease
+ALT
+alanine aminotransferase
+Alzheimer’s Disease
+amino acid sequence
+aminoglycoside antibiotics
+amphetamines
+amyotrophic lateral sclerosis
+analysis of covariance
+ANCOVA
+analysis sets
+analyte
+anaphylaxis
+ANDA
+abbreviated new drug application
+angina pectoris
+angioplasty balloons
+animal trial
+anotia
+antibiotic prophylaxis
+antibiotic resistance
+anti-inflammatory agents
+anti-metabolites
+antimicrobial resistance
+anti-nutrients
+antipyretic analgesics and anti-inflammatory drugs
+anti-TNF agent
+TNF blocker drugs
+anti-TNF therapy
+AORN
+Association of Perioperative Registered Nurses
+aortic disease
+aortic stenosis
+APEC
+APHIS
+Animal and Plant Health Inspection Service
+APIC
+Association of Professionals of Infection
+Control and Epidemiology
+APIs
+active pharmaceutical ingredients
+aplastic anemia
+Appropriate Level of Protection
+ALOP
+approval
+approved drugs
+approximate lethal dose
+ALD
+aprotinin
+AQSIQ
+China's General Administration for Quality Supervision Inspection and Quarantine
+archival copy
+Area Under the Curve
+AUC
+area under the plasma concentration-time curve
+ARGNB
+antibiotic-resistant gram-negative bacilli
+ARMxi
+arrhythmia
+arsenicals
+arsenic compounds
+artificial discs
+artificial heart valve
+artificial pancreas
+AS
+ankylosing spondylitis
+ASCO
+American Society of Clinical Oncology
+ASD
+atrial septal defect
+aseptic packaging
+Asian Harmonization Working Party
+AHWP
+aspartate aminotransferase
+AST
+aspergillin
+aspergillus flavus
+aspergillus ochraceus
+ASR
+alternative summary reports
+assay constancy CA
+assay sensitiviy AS
+assistant investigator
+AI
+assurance
+AST
+antimicrobial susceptibility test
+AST
+aspartate aminotransferase
+ASTM International
+ASTM
+American Society for Testing and Materials
+AstraZeneca
+as-treated analysis
+atopic dermatitis 
+AD
+atorvastatin
+ATR
+attenuated total reflection
+attenuated total reflection
+ATR
+AUCss 
+area under the plasma concentration-time curve at steady-state
+audit
+audit or inspection
+audit report
+auditor
+autoimmune disease
+AID
+autologous marrow stem cell transplantation
+autologous structural cells
+Automated Broker Interface of the Automated
+Commercial System
+ABI
+ACS
+Automated Commercial System
+availability of water
+Avandia
+rosiglitazone
+Aventis Pharma
+average concentration
+average concentration value
+Cav
+B. Cereus
+Bacillus cereus
+B.atrophaeus
+bacilli
+Bacillus anthracis
+bacterial endospores
+bacterial spore
+bar code
+barbiturates
+basal metabolic rate
+baseline
+basiliximab
+trade name Simulect
+batch production
+batch release
+Baycol
+cerivastatin sodium
+Bayer Schering Pharma
+BCG Boston Consulting Group
+bench test
+benefit
+benzodiazepine
+benzoic acid
+Best Pharmaceuticals for Children Act 2002
+beta-blocker
+Bextra
+valdecoxib
+BfARM
+Bundesinstitut für Arzneimittel und
+Medizinprodukte
+BHC
+Bayer HealthCare
+bias
+bicohort study
+bilirubin
+BIMO Bioresearch Monitoring Program
+bioavailability (F)
+biochemical drugs
+biocides
+biocompatibility
+biodegradable
+bio-engineered
+transgenic food
+bioequivalence
+bioequivalent
+innovator drug
+biofilm
+biologic
+biological response modifiers BRM
+biological therapeutic agents
+biomarker
+biometrics
+bion stimulator
+bionic knee
+biopharma:  biopharmaceutical products
+biosimilar
+bipolar
+birth defect
+BLA
+biologic license application
+blank control
+blend uniformity analysis
+blind
+blind codes
+blind review
+blinding method
+blinding/ masking
+blister packaging
+block
+block size
+blocked randomization
+blood thinner
+blood urea nitrogen
+BUN
+BMP
+bone morphogenetic proteins
+BMS
+Bristol-Myers Squibb
+BNF
+biotechnology notification file
+Board Certified rheumatologist
+Body Mass Index
+BMI
+bolus amounts
+bone grafting
+bone marrow suppression
+botulinum
+botulism
+boxed warnings
+brachytherapy seeds
+bradycardia
+breast implants
+Polyurethane-coated
+bromfenac
+BSE
+Bovine Spongiform Encephalopathy
+mad cow disease
+BU
+Business Units
+bubble leak test
+BUN
+blood urea nitrogen
+Bureau of Customs and Border Protection
+CBP
+C. botulinum
+proteolytic
+Clostridium botulinum
+CABG
+coronary artery bypass graft
+CAGR
+Compound Annual Growth Rate
+calcium antagonists
+calcium channel blockers
+CCB
+calibration
+campylobacter
+campylobacter fetus
+campylobacter Jejuni
+cannulas
+CAP
+corrective action plan by drug sponsor
+CAPA
+Corrective & Preventive Action system
+Capitation
+carcinogenic risk assessment
+procedures for
+cardiac arrhythmia
+Cardiac EP (electrophysiology)
+cardiac resynchronization therapy
+Carelink Monitor
+carryover effect
+Carticel
+case history
+case record form
+CRF
+case report form
+cash curve
+cash trap
+categorical variable
+catheters
+cathlab bypass
+Cav
+CBE
+Changes Being Effected
+FDA
+CBP
+Customs and Border Protection
+CCDS
+company core data sheet
+CCFAC
+Codex Committee on Food Additives and Contaminants
+CCFH
+Codex Committee on Food Hygiene
+CCT
+controlled clinical trial
+CD
+circular dichroism
+CDER
+Center for Drug Evaluation & Research
+CDR
+Challenge-dechallenge-rechallenge
+CDRH
+Center for Devices and Radiological Health
+CE mark
+Celebrex
+celecoxib
+Center for Biologics Food and Drug Administration
+Center For Food Safety and Applied Nutrition
+CFSAN
+CEP
+Certificate of Suitability to the Monograph of the European Pharmacopoeia
+Certificate of Suitability to the EP
+cephalosporins
+cerebellar atrophy
+cerebellar malformation
+cerebral infarction
+Cerezyme
+Certificate of Suitability to the EP
+CEP
+cetuximab
+Erbitux
+CFG
+Certificate for Foreign Government
+CFR
+code of federal regulations
+CFSAN
+Center For Food Safety and Applied Nutrition
+CFU
+colony forming unit
+cGMP's
+current good manufacturing practice
+CGMS
+continuous glucose monitoring system
+Chagas disease
+American trypanosomiasis
+Challenge-dechallenge-rechallenge
+CDR
+channeling bias
+CHB
+customs house broker
+chemotherapeutics in seafood
+aquaculture drug residues
+Chi-square test/Chi-Square Goodness-of-Fit Test
+Child-Pugh
+chlorambucil
+CHMP
+Committee for Medicinal Products for Human Use
+cholestatic hepatitis
+chromatography
+chronic obstructive pulmonary disease
+COPD
+Chronic Wasting Disease
+CWD
+CIOMS
+Council for International Organizations of Medical Sciences
+circular dichroism
+CD
+cirrhosis
+citation
+CJD
+Creutzfeld-Jakob disease
+CL
+clearance rate
+claims
+Cleaning Validation
+clearance rate
+CL
+cleft palate
+CLIA Clinical Laboratory Improvement Amendments
+clinical (human) data
+clinical endpoint
+clinical equivalence
+clinical hold
+clinical investigator
+Clinical Pharmacists
+Clinical Research Coordinator
+CRC
+clinical study
+Clinical Study Application
+CSA
+clinical study report
+clinical trial
+clinical trial application 
+CTA
+clinical trial exemption
+CTX
+clinical trial protocol
+CTP
+Clinical Trial Report
+CTR
+clinically significant results
+closed loop system
+Clostridium botulinum
+Clostridium sporogenes
+Cmax
+CMC
+chemistry manufacturing and control
+CMS
+Centers for Medicare & Medicaid Services
+CMS
+Compliance Management System
+CMS
+Concerned Member States
+CMV
+Cytomegalovirus
+CNS abnormalities
+COA
+certificate of analysis
+co-administered drug
+coating
+Codex Alimentarius
+coexistent physiological state
+COGS
+Cost of goods sold
+cohort
+cohort studies
+co-investigator
+CI
+colonization
+of bacteria
+colony- stimulating factors
+CSF
+GM-CSF
+G-CSF
+colorectal cancer
+CRC
+combination product
+combination therapy
+commercial release
+community-acquired bacterial pneumonia
+community-based clinical trial
+CBCT
+co-morbid condition
+COMP
+Committee for Orphan Medicinal Products
+comparison
+compassionate use
+competitive labeling
+complementary and alternative therapy
+complete response
+complete response letter
+compliance
+compliance
+patient
+composite variable
+compression test
+computer-assisted trial design
+CATD
+con meds
+concomitant medications
+concentration
+C
+cone beam CT
+CBCT
+confidence interval
+CI
+confidence level
+confidentiality regarding trial participants
+congenital analgesia
+congenital anomaly
+congenital long QT syndrome
+consignee
+consistency test
+context of vulnerability
+contract research organization
+CRO
+contraindication
+contrast agent
+control
+control group
+controlled clinical trials
+controlled trials
+convulsion
+coordinating committee
+coordinating investigator
+COI
+CO-Oximeter
+pulse
+COPD
+chronic obstructive pulmonary disease
+COPE
+International Coalition of Pacing and Electrophysiology Organizations
+coronary artery disease
+coronary heart disease
+CHD
+coronary stents
+coronary vascular disease
+cortical stimulation
+cost overrun
+Covington and Burling
+LLP limited liability partnership
+COX
+cyclooxygenase
+COX-2 inhibitor
+coxachie virus
+Cp
+Process Capability
+CPAP
+Continuous Positive Airway Pressure
+CPDER
+Center For Post-market Drug Evaluation and Research
+Cpk
+Process Capability Index
+CPMP
+Committee for Proprietary Medicinal Product
+CPP
+Critical Process Parameter
+CQA
+critical quality attribute
+cranial nerve
+CRC
+colorectal cancer
+creatine
+Cr
+creatine kinase 
+CK
+creatinine
+Crea
+CRF
+case report form
+Crimean-Congo haemorrhagic fever virus
+critical path
+CRM
+continual reassessment method
+crossover design
+cross-over study
+crossover therapy
+cryptosporidium parvum
+Css
+steady-state concentration
+CT Computed tomography
+CTCAE
+Common Terminology Criteria for Adverse Events
+CTD
+Common Technical Document
+CTP
+Comprehensive Toxicological Profile
+cure
+CVMP
+Committee for Medicinal Products for Veterinary Use
+CVTE
+cardiovascular thrombolic events
+CyA
+cyclosporin A
+CYA mentality
+Cover Your Ass
+cyanosis
+Cyclospora cayetanesis
+cyclosporin A
+CYP
+Cytochrome P450
+abbreviated P450
+infrequently CYP450
+CYP 2D6 poor metabolizer
+CYP probe substrates
+cystic fibrosis
+CF
+cytokine
+cytokine storm
+cytostatic
+cytotoxic drugs
+data mining
+Data Safety And Monitoring Board
+DSMB
+DBS
+deep brain stimulation
+DDMAC
+Division of Drug Marketing Advertising and Communications
+de novo acute myelogenic leukemia
+de novo process
+dear doctor letters
+dear healthcare professional letter
+deep brain stimulators
+degenerative disc disease
+delayed effect
+deli meats
+demographic risk factor
+Dengue virus
+denominator
+dental reconstruction
+denture cushions
+Department of Health and Human Services
+depression
+depyrogenation
+dermal fibroblast
+DES
+Drug Eluting Stent
+drug coated stents
+medicated stents
+descriptive statistical analysis
+design space
+design validation – customer requirements
+design verification – internal testing
+destructive analysis
+detention
+detergent
+development value chain
+developmental toxicity
+deviation
+Out of Specification OOS procedures
+device listing
+DF
+degree of fluctuation
+DFS
+disease free survival
+DHR
+device history record
+DIA
+Drug Information Association
+diabetic foot ulcer
+diabetic neuropathy
+diagnostic imaging
+diagnostic trials
+diagnostics
+dialysis fluid
+diazepam
+valium
+dichotomies
+diclofenac
+dietary supplement
+Dietary Supplement Health and Education Act of 1994
+DSHEA
+diethylene glycol
+DEG
+Differentiation
+Differentiation Marketing
+Digoxin
+DILI
+drug-induced liver injury
+dioxin
+direct-to-consumer advertising 
+DTCA
+discretionary good
+discretionary power
+discretionary rules
+disinfection
+distributor
+Division of Clinical Trial Design and Analysis
+DLT
+dose-limiting toxicity
+DMARD
+disease-modifying antirheumatic drugs
+DMARD-naïve patients
+DMF
+drug master file
+DMSO
+dimethyl sulfoxide
+DNA sequence
+dolomite
+dopamine
+dosage form
+dosage regimen
+dose-ranging study
+dose-reaction relation
+dose-related adverse reactions
+double blinding
+double dummy
+double-blind study
+Double-Masked Study: See Double-Blind Study.
+DRGs
+Diagnosis Related Group System
+drop out
+drop test
+drug eluting coronary stents
+drug product
+drug substance
+drug-drug interaction
+drug-food interaction
+drug-infusion systems
+DSC
+Differential Scanning Calorimetry
+DSMB
+Data Safety and Monitoring Board
+DSMICA
+Division of Small Manufacturers,
+International and Consumer Assistance
+DTA
+differential thermal analysis
+DWPE
+detention without physical examination
+Dystopia
+E. coli
+EBIT
+Earnings Before Interest and Tax
+EBITDA
+Earnings Before Interest, Taxes, Depreciation
+and Amortization
+Ebola virus
+EEPS
+Electronic Entry Processing System
+effectiveness
+efficacy
+efficacy Of a drug or treatment
+EFPIA
+European Federation of Pharmaceutical
+Industries and Associations
+EFSA European Food Safety Authority
+EIR
+establishment inspection report by FDA
+electrical impulse
+Electronic Data Capture
+EDC
+Electronic Data Processing
+EDP
+Eli Lilly
+eligibility criteria
+elixir of sulfanilamide tragedy 1937
+embolic stroke
+EMEA
+European Medical Evaluation Agency;
+European Agency for the Evaluation of Medicinal Products
+European Medicines Agency
+emergency envelope
+Empiric Bayesian Multiple Gamma-Poisson Shrinker
+empirical
+Enbrel
+encephalitis
+end-of-life care
+endogenous system
+endoscopes
+endpoint
+endpoint criteria
+enlarged prostate
+enterobacter sakazakii
+enterococci
+entrepreneurs
+enzymatic browning
+enzyme replacement therapy
+EPA
+export application
+ephedra
+epidemiology
+epiglottis
+epilepsy
+epinephrine
+epitope
+EPO
+erythropoietin
+equipment qualification
+equivalence
+equivalence trial
+erectile dysfunction
+ERISA Employee Retirement Income Security Act of 1974
+erythropoietin
+esophagus
+essential documentation
+Essential Tremor
+established name
+Establishment Registration
+Etanercept
+ethanol
+ethics committee
+ethyl alcohol
+ethanol
+ethylene glycol
+etiology
+Eudract
+European Union Drug Regulating Authorities Clinical Trials
+European Clinical Trial Database
+EudraLex
+Eudravigilance
+European Union Drug Regulating Authorities Pharmacovigilance
+excellent
+excessive daytime sleepiness
+excimer laser
+excipient
+exclusion criteria
+exclusion/inclusion criteria
+exculpatory evidence
+expanded access
+experimental drug
+Expiration Date
+explant
+exposure data
+express preemption
+external auditory canals
+external low-pressure air device
+externalities
+extrusion
+facial dysmorphia
+FACP
+Fellow of the American College of Physicians
+factorial design
+factorial trial
+failure
+Fair Packaging and Labeling Act 1966
+False Claims Act
+false therapeutic claims
+FAS
+Foreign Agricultural Service
+FCA
+Field Corrective Actions
+FCE
+Food Canning Establishment
+FD&C Act
+Food,Drug & Cosmetic Act of
+1938
+FDA
+FDAAA
+Food and Drug Administration Amendments Act of 2007
+FDAMA 1997
+Federal Import Milk Act 1927
+fee-for-service
+FERN
+Food Emergency Response Network
+fibrosis
+field correction
+field notification
+final point
+Final Report
+FR
+finfish
+FIP
+Federation International Pharmaceutical
+first dose effect
+syndrome of first dose
+first dose
+phenomenon
+first line therapy
+Fish and Fishery Products Hazards and Controls
+Guidance
+fixed-dose procedure
+Flector Patch
+diclofenac epolamine superficial patch
+Flex-Foot
+flexible endoscopes
+flocculation
+Fluoroquinolones
+flurazepam
+marketed under the brand names Dalmane and Dalmadorm
+FMEA
+failure modes and effects analysis
+FMECA
+Failure Modes,Effects and Criticality Analysis
+folate
+folding,protein
+follow-on biologics
+biosimilars
+follow-up
+food additives
+food adulteration
+food alerts
+Food And Drug Administration
+FDA
+food borne diseases
+Food Canning Establishment
+FCE
+Food Chemical Codex
+Food Code
+Food Contact Notifications
+FCN
+Food Contact Substances
+FCS
+food contaminant
+food technology
+food-borne diseases
+Force Multiplier
+forced titration
+Foreign Agricultural Service (USDA)
+FAS
+formulation
+drug
+Fosamax
+Francisella tularensis
+fraudulent intent
+fresh-cut produce
+FSCA
+Field Safety Corrective Action
+FSIS
+Food Safety and Inspection Service USDA
+FTA
+Fault Tree Analysis
+FTE
+full time employee
+full analysis set
+FAS
+full factorial design
+fungus
+furan
+Fusarium moniliforme
+fusion systems
+G-6-PD
+GACC
+General Administration Of Customs Of The People’s Republic Of China
+gamma glutamyltransferase
+GGT
+GAMP
+Good Automated Manufacture Practice
+gangrene
+GAO
+GAPs
+Good Agricultural Practices
+GAqPs
+Good Aquacultural Practices
+gas chromatography-Fourier transform infrared spectrometry
+GC-FTIR
+gas chromatography-mass spectrometry
+GC-MS
+Gastro/Uro Stimulators
+Gastroparesis
+Gaucher's Disease
+GC-FTIR
+gas chromatography Fourier transform infrared
+GC-MS
+gas chromatography-mass spectrometry
+GCP
+Good Clinical Practice
+G-CSF
+granulocyte-colony stimulating factor
+GD
+Global Development
+GDD
+Global Drug Discovery
+gene expression
+General Administration Of Customs Of The People’s Republic Of China
+GACC
+generic drug
+generic name
+Genetech
+genetic toxicity tests
+genetic vulnerability
+genotype
+genotypic resistance
+Gentamicin
+gentamicin sulfate
+GFI
+Guidance for Industry
+GHTF
+Global Harmonization Task Force
+GlaxoSmithKline
+GSK
+global assessment variable
+GLP
+Good Laboratory Practice
+Good non-clinical laboratory practice
+GLU
+glucose
+glucose monitor
+glucose monitoring
+glucose test strip
+glycated hemoglobin
+glycerin
+glycosylated hemoglobin
+GMO
+Genetically Modified Organisms
+GMP
+Good manufacturing practice
+Good Clinical Practice
+GCP
+good manufacturing practice
+GMP
+Good Review Practices
+GPF
+general project frame
+GPOs
+group purchasing organizations
+GPS
+Gamma-Poisson Shrinker
+GRA
+Global Regulatory Affairs
+gram-negative bacilli
+grandfathered drugs
+granulation tissue
+GRAS
+generally recognized as safe
+group sequential design
+GTP good tissue practice
+Guanarito virus
+Guidance for Industry Botanical Drug Products
+guiding catheter
+HACCP
+Hazard Analysis and Critical Control
+Point
+HAI
+healthcare-associated infections
+hallucinogens
+Halophiles
+handling and storage
+Hantavirus
+hazard function
+HAZOP Hazard and operability studies
+HbA1c
+hemoglobin A1c
+HBV
+Hepatitis B virus
+HCC
+hepatic cell carcinoma
+HCV
+hepatitis C virus
+HDE
+Humanitarian Device Exemption
+health claims
+health economic evaluation
+HEV
+health science analysts
+heart failure
+hemachromatosis
+hematopoetic
+hematopoietic growth factors
+hemodialyzers
+hemoglobin A
+hemolytic anemia
+hemophilia
+hemostatic
+Hendra virus
+HEOR
+Health Economics and Outcomes Research
+Heparin
+hepatic cell carcinoma
+HCC
+hepatic coma
+hepatic necrosis
+hepatitis C
+hepatocellular injury
+hepatocellular jaundice
+hepatology
+hepatotoxicity
+Herniated discs
+Herpes simiae virus
+B virus
+Herxheimers reaction
+Hgb
+hemoglobin
+HHS
+Department of Health and Human Services
+HICPAC
+Healthcare Infection Control Practices Advisory Committee
+High intensity focused ultrasound HIFU
+Hip Replacement
+HIPAA
+Health Insurance Portability and Accountability Act
+HIS
+Hospital Information System
+HMO
+health maintenance organizations
+HMPC
+Committee on Herbal Medicinal Products
+holder
+homologous
+HOPE Study
+Heart Outcomes Prevention Evaluation
+Hospice
+Hospital Epidemiology
+HPAI highly pathogenic avian influenza
+HPLC
+High-performance liquid chromatography
+high-pressure liquid chromatography
+HQA Hospital Quality Alliance
+HR Hazard ratio
+HSE
+HSV
+herpes simplex virus
+HTA assessment health technology assessment
+HTN
+Hypertension
+hub
+Humira
+adalimumab
+HVAC
+heating ventilating and air conditioning
+hydralazine
+Hydrocephalus
+hydroxychloroquine
+hygroscopic
+hyperglycemia
+hyperlipidemia
+Hypoglycemia
+hypokalemia
+hypothesis
+hypothesis test
+hypoxia imaging
+IB
+Investigator's brochure
+ICD implanted cardiac device
+ICDs
+Implantable cardioverter defibrillators
+ICH
+International Conference of Harmonization
+of Technical Requirements for Registration of Pharmaceuticals for Human Use
+ICH Q10
+ICH Q9
+IDE
+Investigational Device Exemptions
+identity
+idiosyncratic reaction
+IDMC 
+Independent Data Monitoring Committees
+IFN
+interferon
+IFPMA
+International Federation of Pharmaceutical Manufacturers & Associations
+IFU
+IHNs
+Integrated Health Networks
+IL-2
+Interleukin-2
+imaging agents
+immediate release drug
+immune modulation
+immune suppression
+immuno-compromised
+immunogenicity
+immunosuppressive cytokine therapy
+implantable defibrillators
+implantable diagnostic recorders
+implantable drug pumps
+implantable gastric stimulation systems
+implantable neurostimulation systems
+implantable sacral stimulation systems
+implantable shunts
+implantable stent grafts
+implantable stents
+implied preemption
+IMPs
+investigational medicinal products
+in utero stem cell transplantation
+in vitro diagnostic
+IVD
+in vitro reagent
+inclusion criteria
+inclusion/exclusion criteria
+incremental exposure
+incubation period/latency period
+IND 
+Investigational New Drug
+INDA
+investigational new drug application
+indemnity insurance
+Independent Data Monitoring
+IDM
+Independent Data Monitoring Committee
+IDMC
+independent ethics committee
+IEC
+indications
+Industrial chemicals
+inert surface
+Infant Formula Act of 1980
+infectious agents
+Infectious Disease
+Inflammatory pain
+infliximab
+Influenza virus type A
+subtype H2 H5 and H7
+informed consent
+informed consent form/informed consent document
+ICF
+INFOSAN
+International Food Safety Authorities Network
+infrared
+IR
+infusion pump
+infusion sets
+inhibitory cytokine
+initial meeting
+in-licensing agreement
+INN
+international nonproprietary name
+innovator drug
+in-process testing
+inspection
+Institute of Medicine
+IOM
+institution inspection
+Institutional Review Board 
+IRB
+Insulin delivery
+insulin pumps
+intended use
+intention-to-treat analysis
+ITT analysis
+Interactive Voice Response System
+IVRS
+Inter-American Institute For Co-Operation On Agriculture
+interferon
+interim analysis
+interleukin-6
+intermediate
+International Conference of Harmonization 
+ICH
+Internet-based information technology system
+interstitial cystitis
+intervention
+Intravenous infusion and blood transfusion
+invasive fungal infection
+investigational new drug 
+IND
+investigational product
+investigator
+investigator's brochure
+IB
+iodophor germicidal detergent solution
+IPC
+in-process control
+IPO
+Initial Public Offerings
+IQM
+Integrated Quality Management
+IR
+IRB
+Institutional Review Board
+IRR
+Internal Rate of Return
+Irradiation
+ischemic/viable myocardial tissues
+Ishikawa Diagram
+Cause and Effect Diagram
+Isoniazid
+isopropyl alcohol
+ISPE
+International Society for Pharmaceutical Engineering
+IV push
+IVD device
+In vitro diagnostic device
+IVDMIA
+In Vitro Diagnostic Multivariate Index
+Assay
+Japanese encephalitis virus
+JECFA
+Joint FAO/WHO Expert Committee on Food Additives
+JEMRA
+the Joint FAO/WHO Expert Meetings on Microbiological Risk Assessment
+JIFSAN
+Joint Institute of Food Safety and Applied Nutrition
+Johnson & Johnson
+JPMA
+Japan Pharmaceutical Manufacturers
+Association
+Junin virus
+Ka
+absorption rate constant
+ketoconazole
+kits
+Kogenate
+KOL key opinion leaders
+Konjac
+Koseisho
+KPI
+key performance indicator
+Kyasanur Forest disease virus
+labeled amount
+LACF
+low acid canned foods
+lactobacilli
+larynx
+LASIK
+laser-assisted in situ keratomileusis
+Lassa virus
+last observation carry forward
+LOCF
+late stent thrombosis
+LCC
+Low Cost Country
+LC－MS
+LD
+longest diameter
+LD50
+lead arsenate
+lead compound
+leak testing
+Leflunomide
+lethal dose,50%
+LD50
+leukemia
+levofloxacin hydrochloride Levaquin
+LFTs
+Liver function tests
+librium
+chlordiazepoxide
+licensed pharmacist
+licensing authorities
+ligand
+Limit of Quantitation
+LOQ
+line extensions,product
+lipase
+lipid oxydation
+lipid virus
+lipitor
+Liquid Chromatography Mass Spectrometry
+LC-MS
+Listeria
+Listeria monocytogenes
+listeriosis
+liver assist devices
+liver biopsy
+liver death
+hepatic death
+loading dose
+Local Quality Representative
+LQR
+LOCF
+last observation carried forward
+log rank test
+logic check
+Long QT syndrome 
+LQTS
+Longitudinal patient reported surveillance program
+LOQ
+Limit of Quantitation
+loss to follow-up
+low molecular weight heparin
+LMWH
+LPN
+licensed practical nurse
+lumbar tapered fusion device
+lumen
+lymphoma
+M. bovis
+M. tuberculosis
+MAA
+Marketing Authorization Application
+MAB
+monoclonal antibody
+MACE
+major adverse cardiovascular events
+Machupo virus
+macroconstituent
+Macronutrients
+MAD
+Multiple Ascending Dose studies
+MAH
+Marketing Authorization Holder
+maladministration
+malignant hyperthermia
+MH
+malpractice claims
+managed care
+manipulated autologous structural cells
+MAS cells
+MAO inhibitor
+monoamine oxidase
+Marburg virus
+market basket survey.
+market clearance
+market exclusivity,periods of
+marketing
+marketing approval
+marketing authorization
+MA
+marketing authorization application
+MAA
+masked
+Mass Spectrometry
+MS
+mass-balance
+MAST
+Minimal Access Spinal Technologies
+matched pair
+matrix protein
+maximum tolerated dose
+MTD
+MCO
+Managed Care Organization
+MDFP medical device fellowship program
+MDR
+Medical Device Reporting
+MDUFMA
+Medical Device User Fee and Modernization Act
+MDUFSA
+Medical Device User Fee Stabilization Act
+mean absorption time
+MAT
+mean disintegration time
+MDIT
+mean dissolution time
+MDT
+mean residence time
+MRT
+measurable disease
+measurable lesion
+MedDRA
+Medical Dictionary for Regulatory
+Activities
+Medicaid
+medical device
+Medical Device Amendments
+medical governance
+Medicare
+medication guides(for patients)
+Medicines Control Agency
+MCA
+MedSun
+Medical Product Surveillance Network
+Medtronic
+MedWatch
+Melamine
+MEMS
+Micro Electromechanical System
+Meniere’s Disease
+meningitis
+Merck
+Merck Sharp & Dohme
+MSD,part of Merck
+meta-analysis
+metabolite
+metastatic
+metformin
+metformin hydrochloride
+Methicillin
+Methotrexate
+MTX
+methylmercury
+methylphenidates
+MGPS
+Multi-Item Gamma Poisson Shrinker
+MHLW
+Ministry of Health, Labour and Welfare
+MHRA
+Medicines and Healthcare products Regulatory
+Agency
+MI
+myocardial infarction
+MIC
+Minimum Inhibitory Concentration
+microbial flora
+microcephaly
+micrococci
+microneedles
+microphthalmia
+micropumps
+minimal effective dose
+minimally invasive spinal surgery
+minimum inhibitory concentration
+MIC
+Ministry of Health and Welfare
+MHW
+minocycline
+MIS
+minimally invasive surgery
+misbranding
+miscoding
+missing value
+mixed effect model
+MLD
+minimal lethal dose
+MoA
+mechanism of actionxcv
+MoA
+memorandum of agreementxcvi
+modem
+modernization
+modified atmosphere packaging
+MAP
+modified fats
+modified release capsule
+molecular characterization
+molecular diagnostics
+molecular pathogenesis
+molecular targeted therapy
+monitor
+monitoring plan
+monitoring report
+monkeypox virus
+monoclonal antibody
+movement disorders
+MQSA
+mammography quality standards act
+MR
+moderate response
+MRA
+Agreement on Mutual Recognition
+MRI
+magnetic resonance imaging
+MRSA
+Methicillin resistant staphylococcus aureus
+MRT
+mean residence time
+MS
+MS-MS
+MTD
+maximal tolerance dose
+MTX 
+methotrexate
+multicenter trial
+multi-drug resistance
+multi-kinase inhibitor
+multiple arm trials
+multiple sclerosis
+mutual recognition procedure
+EU
+mycobacteria
+mycobacterium tuberculosis
+multidrug-resistant
+mycotoxins
+myocardial electrode
+myocardial ischemia
+NABP
+National Association of Boards of Pharmacy
+NAI
+No Action Indicated
+Naproxen Caps
+narcotics
+narrative summary
+National Formulary
+National Institutes of Health
+NIH
+Natural History Study
+NCE 
+new chemical entity
+NCI CTEP
+National Cancer Institute Cancer Therapy
+Evaluation Program
+NDA new drug application
+neoplasm
+neural interface
+neurodegenerative treatments
+neurogenic pain
+neurological stimulators
+neuromodulation
+neuromodulator
+neuron
+neuropathic pain
+new chemical entity
+NCE
+new drug application
+NDA
+Nexavar
+sorafenib tosylate
+NF
+national formulary
+NIH
+National Institute Of Health
+Nipah virus
+nitrazepam
+nitrite
+NME
+new molecular entity
+NMR spectroscopy
+nuclear magnetic resonance
+NOAA
+NMFS
+nociceptive pain
+nociceptor
+nominal significance level
+non-dose-related adverse reactions
+non-enzymatic browning
+non-inferiority margin
+non-inferiority trial
+non-lipid virus
+non-parametric statistics
+non-significant-risk
+NSR
+norovirus
+nosocomial infections
+notified body NB
+Novartis Pharmaceuticals
+NPV
+net present value
+NPWT
+negative pressure wound therapy
+NSAID
+non-steroidal anti-inflammatory drug
+NSE
+non-substantially equivalent letter
+null hypothesis
+numerator
+nurse practitioner NP
+Nutrition Labeling and Education Act of 1990
+OA
+osteoarthritis
+OAI
+official action indicated
+OASIS
+Operational and Administrative System for
+Import Support
+OBD
+optimal biological dose
+obedience
+obsessive -compulsive disorder
+obturators
+OCI
+Office of Criminal Investigations
+OCTGT
+Office of Cellular Tissue and Gene Therapies
+ODE
+organ drug exclusivity
+ODS
+Office of Drug Safety
+Office of Surveillance and Epidemiology
+OSE
+official
+pharmacopeial
+compendial
+official compendium
+off-label use
+off-the-shelf components
+OH
+orthostatic hypotension
+OLT
+orthotopic liver transplant
+Omsk haemorrhagic fever virus
+oncolytic agent
+OND
+Office of New Drugs
+OOS
+out of specification
+open-blinding/open-label
+open-cell foam
+open-chest Surgery Devices
+open-heart surgery perfusion and stabilization systems
+open-label
+open-label trial
+operating margin
+opportunistic infections
+optical sensor
+optional titration
+ORA
+Office of Regulatory Affairs
+oral solid dosage forms
+ORD
+optical rotatory dispersion
+organ replacements and assists
+organic impairment
+organoleptic quality
+original medical record
+orphan drugs
+orthopedic implants
+orthopedic surgery
+orthopedics
+orthostatic hypotensionm
+OH
+orthotics
+OS
+Overall survival
+OSA
+obstructive sleep apnea
+OSHA
+Occupational Safety And Health Act
+osmophilic yeasts
+osteoclast
+osteomyelitis
+OTC drug
+over-the-counter drug
+ototoxicity
+outcome
+outcome assessment
+outcome measurement
+outlier
+outpatient
+outreach
+overactive bladder
+oxazepam
+Alepam,Murelax,Oxascand,Serax,Serepax,Seresta,Sobril
+oxidative stress
+P/E Ratio
+P4P
+Pay for performance systems
+pacemakers
+package insert
+label
+package seal
+PACS
+Picture Archiving Communication System
+palivizumab
+Synagis
+palliative care unit
+palpitation
+pancytopenia
+paracetamol
+parallel group design
+parameter estimation
+parametric release
+parametric statistics
+parasympathetic nervous system
+autonomic nervous system
+parathyroid hormone deficiency
+partial response
+Pasteurization
+PAT
+Process Analytical Technology
+pathogen
+pathogenic cocci
+patient file
+patient global
+pt global
+patient history
+payroll tax
+Pbo or Pla
+placebo
+PCB
+polychlorinated biphenyls
+PCR assays
+polymerase chain reaction
+PD
+pharmacodynamics
+PDA
+Parenteral Drug Association
+PDCO
+Pediatric Committee
+PDP product development protocol
+PDUFA
+Prescription Drug User Fee Act 1992
+peer review
+Pegasys
+peginterferon alfa-2a
+pegylated interferon alfa-2a
+penicillamine
+penicillium verrucosum
+pennsaid
+peptides
+per protocol analysis
+PP
+per protocol set
+PPS
+perchlorate
+percutaneous transluminal balloon angioplasty
+perforated ulcer
+perfusion
+perioperative antibiotic prophylaxis
+peripheral disease
+pesticide residue
+PET
+positron emission tomography
+Pfizer
+PFO
+patent foramen ovale
+PFS
+progression-free survival
+PGE
+patient global evaluation
+PHA
+preliminary hazards analysis
+pharmaceutical equivalence
+pharmaceutics
+Pharmacia
+pharmacodynamics
+PD
+pharmacoepidemiology
+pharmacokinetics
+PK
+pharmacology
+Pharmacovigilance
+pharmacy
+PharMetrics claims database
+pharynx
+phenergan
+Phenol
+phenotype
+phenotypic resistance
+PHF
+potentially hazardous food
+phlebotomy
+phocomelus
+photodynamic therapy PDT
+PhRMA
+Pharmaceutical Research and Manufacturers of America
+PIB dosage form: powder in bottle
+PIC
+Pharmaceutical Inspection Convention
+PIC/S Pharmaceutical Inspection Cooperation Scheme
+pillar procedure,struts
+pipeline assets
+PK
+pharmacokinetics
+placebo
+placebo control
+placebo controlled study
+placebo effect
+Plavix 
+Clopidogrel bisulfate
+pleiotropy
+Plt
+platelet
+PMA
+premarket approval
+PMCs
+post marketing commitments
+PMDRA
+Post Marketing Drug Risk Assessment
+PMHx
+past medical history
+PMN
+premarket notification
+PMS
+premenstrual syndrome
+POC
+proof-of-concept Clinical Trials
+POC
+point-of-care testing
+Polio
+polymer wafer
+polymyxin
+polyphenol oxidase
+polytomies
+pooled analysis
+PA
+poor motor coordination
+PoS
+point-of-sales
+postmarket surveillance
+post-marketing surveillance
+postmarket safety surveillance
+posttranslational modification
+PTM
+postural hypotension
+potency
+power
+Pp
+Process Performance
+Ppk
+Process Performance Index
+PPO
+preferred provider organizations
+PR
+partial response
+practolol affair
+prazoxin
+PREA
+the Pediatric Research Equity Act
+precautions
+precision
+preclinical
+animal data
+preclinical study
+predicate device
+premarket approval
+PMA
+prednisone
+pre-market approval
+PMA
+premarket notification
+pre-marketing surveillance
+preparing and submitting
+prescription drug
+preservation
+prevalence
+prevention trials
+primary event
+coronary event
+primary endpoint
+primary mode of action
+PMOA
+primary variable
+principal investigator
+PI
+Principles of Qualification
+prion
+Prior Notice
+PN System Interface
+private label
+private label distributor
+probability
+probe substrate
+procedure trays
+process controls
+process validation
+product codes
+product differentiation
+product license
+PL
+product life cycle
+PLC
+prognosis
+progression-free survival
+PFS
+progressive disease PD
+proof of principle study
+propensity score
+propionic acid
+propranolol
+proprietary name
+Propulsid
+Cisapride
+prosthetics
+protein purification
+protocol
+protocol amendment
+prototype design
+protozoa
+proven acceptable Range
+PAR
+PSA
+prostate specific antigen
+PsA
+psoriatic arthritis
+pseudomonas
+psoriasis
+psoriatic arthritis PsA
+PSUR
+periodic safety update report
+psychotropics
+psychrotrophic pathogens
+PTBA
+percutaneous transluminal balloon angioplasty
+PTC
+product technical complaints
+PTCA
+percutaneous transluminal coronary angioplasty
+PTM
+post-translational modifications
+PTS
+probability of technical success
+public goods
+Pure Foods Act 1906
+PVAR
+preliminary variation assessment report
+pyloric sphincter
+pylorus
+QSIT
+Quality Systems Inspection Technique
+QSR
+Quality Systems Regulation
+QT interval
+QTc
+Corrected QT
+qualification system for licensed pharmacist
+qualified health claims
+Qualified Person
+QP
+quality assurance
+QA
+quality assurance unit
+QAU
+quality control 
+QC
+quality management systems
+quality of life trials or supportive care trials
+quality risk management
+QRM
+quantitative risk assessment
+quaternary ammonium compound
+query list
+query form
+qui tam
+qui tam relators
+or whistleblowers
+R & D portfolio
+RA
+regulatory authorities
+rheumatoid arthritis
+rabies or rabies-related virus
+radiation emitting products
+radiation-emitting electronic products
+radio frequency ablation RFA
+radioactive pharmaceuticals
+radiological health
+radionuclides
+radioactive contaminants
+radiopharmaceutical
+radiosurgery
+randomization
+randomized trial
+randomized
+double blinded clinical trial
+range check
+rating scale
+raw agricultural commodities
+RBA
+risk benefit assessment
+RCC
+renal cell carcinoma
+RCHSA
+Radiation Control for Health and Safety Act
+RCT
+randomized clinical trials
+randomized controlled trial
+RDE
+remote data entry
+ready-to-eat foods
+reagents
+real-time continuous glucose monitoring systems recall
+RECIST
+Response Evaluation Criteria in Solid Tumors
+reconditioning
+recycled plastics
+reference listed drug
+reference product
+reference samples
+refractory solid tumors
+regulatory methodology
+regulatory methods validation
+regulatory specification
+rejection
+remission
+remote monitoring system
+REMS
+Risk Evaluation and Mitigation Strategies
+REPFED
+refrigerated processed food of extended durability
+replicate data sets
+replication
+rescue medication
+residual risk
+respiratory distress syndrome
+RDS
+respiratory paralysis
+response rate
+retention samples
+retinal implant
+retrovirus
+reverse engineering
+review copy
+RF ablation surgical probes
+rhabdomyolysis
+Rhinovirus
+RhV
+Rift Valley fever virus
+risk
+risk assessment
+risk analysis
+risk evaluation
+risk classification
+Risk Communications Advisory Committee
+risk evaluation
+part of risk assessment
+risk/ benefit analysis
+risk-benefit ratio
+Ritalin
+rituximab
+Mabthera
+美罗华
+RKI
+Raf kinase inhibitor
+RM
+rhabdomyolysis
+RMS
+reference member state
+Roche
+Rogaine
+Rosetta
+route of administration
+royalties
+RPN
+risk priority number
+RR
+response rate
+RSD
+intra-day and inter-day relative standard deviations
+RSV
+respiratory syncytial virus
+RTE foods
+ready-to-eat
+rugged individual
+run-in
+RVD reference vascular diameter
+S. aureus
+Staphylococcus aureus
+Sabia virus
+sacral nerve stimulation
+SNS
+SAD
+single ascending dose
+SAE
+serious adverse event
+safety advisory
+safety evaluation
+safety evaluators
+safety set
+Salmonella
+Salmonella enteritidis
+salmonella typhimurium
+sample size
+number of subjects in a clinical trial
+SBA
+serum bactericidal activities
+SBA
+summary basis of approval
+approval package
+scaffold
+scale of ordered categorical ratings
+SCFX
+supercritical fluid extrusion
+Schering-Plough
+SCHIP State Children's Health Insurance Program
+SCID
+severe combined immunodeficiency disease
+SCID mouse
+scleroderma
+screening trials
+SD
+standard deviation
+SE
+substantial equivalence
+seal strength test
+SEC
+Securities and Exchange Commission
+secondary effect
+secondary variable
+seed brachytherapy
+seeding trials
+seizure
+sensitized lymphocyte
+sepsis
+sequence
+severe acute respiratory syndrome─coronavirus
+SFDA
+State Food And Drug Administration
+SG & A= sales
+general and administration
+shaft
+SHEA
+Society for Healthcare Epidemiology of America
+sheaths
+shelf life
+shift table
+Shiga toxin
+shipping test
+SIC codes
+Standard Industrial Classification codes
+side effects
+significance level
+significant risk
+SR
+Sildenafil
+simple randomization
+simulation model
+Simulect
+single blinding
+single-blind study
+single-masked study
+sinus surgery devices
+site assessment
+SA
+site audit
+SMDA
+Safe Medical Devices Act of 1990
+SMF
+site master file
+sNDA
+supplemental NDA
+sodium hypochlorite
+soft palate
+solutions
+SOP
+standard operating procedure
+Sorafenib
+Nexavar
+sorbic acid
+source data
+SD
+source data verification
+SDV
+SPA
+special protocol assessment
+specific antibody
+specificity
+spinal deformities
+spinal fusion cage
+spinal implants/ biologics
+spiral CT scan
+spoilage
+sponsor
+sponsor-investigator
+SI
+spontaneous reports
+voluntary reports
+SPS
+Agreement on the Application Of Sanitary and Phytosanitary Measures
+SSI
+surgical site infection
+SSOPs
+Sanitation Standard Operating Procedures
+standard curve
+standard deviation
+standard drug
+standard operating procedure
+SOP
+standard treatment
+standards of care
+Staphylococcus
+startup companies
+State Food and Drug Administration
+SFDA
+statistic
+statistical analysis plan 
+SAP
+statistical model
+statistical significance
+statistical tables
+Statisticians in the Pharmaceutical Industry
+PSI
+steady-state Area Under the Curve
+AUCss
+stenosis
+stent grafts
+sterile manufacturing facilities
+sterility testing
+sterilization
+steroid
+steroid eluting electrode
+steroid hormone
+Stevens Johnson Syndrome
+SJS
+stratified
+Strattera
+atomoxetine hydrochloride,
+strength
+strep test
+Streptomycin
+study audit
+study endpoint
+Study Personnel List
+SPL
+study site
+study type
+subchronic toxicity studies
+subgroup
+sub-investigator
+subject
+subject diary
+SD
+subject enrollment
+subject enrollment log
+SEL
+Subject Identification Code List
+SIC
+subject recruitment
+subject screening log 
+SSL
+submission
+subspecialties
+internal medicine
+substantial equivalence to legally marketed device
+sucrose
+sudden cardiac arrest
+sudden cardiac death
+sudden death
+sulfanilamide elixir
+sulfasalazine
+SSZ
+sulfonamides
+superinfection
+superiority trial
+supplier qualification
+surfactant
+surgical instruments
+Surgical Navigation
+surrogate endpointcl
+survival analysis
+susceptible population
+Sutent
+sutures
+SXRD
+single-crystal x-ray diffraction
+sympathomimetic drug
+Synagis
+palivizumab
+syringe pump
+system audit
+systemic infection
+systemic lupus erythematosus
+T1/2
+elimination half-life
+tablets
+tachycardia
+tamarind color
+tamper-resistant packaging
+Tamper-Resistant Packaging Regulations
+tampons
+Tarceva
+target variable
+Taxol
+paclitaxel
+Taxotere
+Docetaxel
+T-BIL
+Total Bilirubin
+TBT technical barrier to trade
+T-CHO
+total cholesterol
+TDI
+tolerable daily intake
+TDS
+total diet study
+Technical Barriers to Trade Agreement
+TBT
+tensile test
+teratogenic
+teratogenic effects
+test and reference product
+T&R
+test product
+testosterone enantate
+tetanus antitoxin
+TG
+thermogravimetry
+thalidomide
+thalidomide incident
+therapeutic equivalence
+therapeutic window
+thiamin
+threshold concentration
+thrombin
+thrombocytopenia
+thrombolytic agents
+thrombolytic stroke
+thymus gland
+thyroid surgery
+TIA
+transient ischemic attacks
+tick-borne encephalitis virus
+tilapia
+time to tumor progression
+time-to-event endpoint or survival time
+titration
+TLC
+thin layer chromatography
+Tmax
+TMS
+transcranial magnetic stimulation
+TNF
+tumor necrosis factor
+TNK
+Tenecteplase
+tocopherols
+tongue depressor
+total diet study
+TDS
+toxicant
+toxicity
+toxicity scale
+toxics
+toxigenic moulds
+TP
+total protein
+tPA
+tissue plasminogen activator
+TPA
+tissue polypeptide antigen
+tracer
+train-the-trainer program
+transcranial magnetic stimulation
+transdermal patch
+transformation
+transgene
+translational scienceclvii
+transmissible spongiform encephalopathy
+TSE
+transvenous catheter pacemaker
+traumatic pain
+treatment group
+treatment IND
+treatment trials
+trial error
+trial initial meeting
+trial master file
+trial objective
+trial site
+TRICARE
+triple blinding
+trocars
+troglitazone
+TSE
+transmissible spongiform encephalopathy
+TSR
+Total Shareholder return
+TTB
+Alcohol and Tobacco Tax and Trade Bureau
+TTM
+Time to Market
+TTP
+Time to progression
+TVR
+target vessel revascularization
+two one-side test
+Tylenol
+type error
+type II diabetes
+type Ⅱ error
+TZDs
+thiazolidinediones
+UAE
+unexpected adverse event
+UC
+ulcerative colitis
+ULN
+upper limits of normal
+UMC
+Uppsala Monitoring Centre
+unblinding
+under reporting bias
+unexplained syncope
+unresectable
+Upjohn
+urinary retention
+URS
+loginUser requirements specification
+urticaria
+US Federal Food Drug and Cosmetic Act of 1938
+USDA FSIS
+Food Safety and Inspection Service
+USP
+United States Pharmacopeia
+USP/NF
+U.S. Pharmacopeia / National Formulary
+UV-VIS Ultraviolet/Visible
+VAC
+vacuum-assisted closure
+VAI
+voluntary action indicated
+validation
+validation master plan
+validation of aseptic processing
+value chain
+vancomycin resistance
+variability
+variable
+variola virus
+vascular catheter
+vasculitis
+vector sequences
+vegetative bacteria
+vegetative organism
+VEGF
+vascular endothelial growth factor
+VEGFR
+vascular endothelial growth factor receptor
+ventilator
+verification
+veterinary products
+Vibrio cholerae
+Vibrio parahaemolyticus
+Vibrio vulnificus
+Vioxx
+rofecoxib
+VIPPS
+Verified Internet Pharmacy Practice Site
+viral load
+virtual cath lab
+virus inactivation
+visual analogy scale
+visual check
+vital signs
+Voltaren gel
+VRE vancomycin-resistant enterococci
+vulnerable subject
+Vytorin
+W/D due to adverse events
+WACC
+weighted average cost of capital
+warning letter
+warranty claims
+wash-out
+washout period
+water activity
+Aw
+water binding agents
+water-for-injection system
+WFI
+WBC
+white blood cell
+Weber effect
+Wegener’s granulomatosis
+well-being
+Wellcome
+West Nile virus
+WHO International Collaborating Center for Drug
+Monitoring
+WHO International Conference of Drug Regulatory Authorities
+WHO-ICDRA
+WHO Programme for International Drug Monitoring
+PIDM
+whole grains
+withdrawal symptoms
+withdrawal syndrome
+within-run precision
+wound drainage
+wound dressing
+wound management
+WTO/SPS
+Agreement on the Application of Sanitary
+and Phytosanitary Measures
+xenotransplantation
+Xerophilic fungi
+X-ray
+Yellow fever virus
+Yersinia enterocolitica
+Yersinia pestis
+Zenapax
+Zeneca
+Zocor
+simvastatin
+Zyprexa
+Olanzapine
+α1-receptor blocker
+β-lactames
+##### End of file
